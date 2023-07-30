@@ -1,5 +1,7 @@
 # Python_Practice-QNA
 
 Practice Python Questions 
-- Basic
+- Integer
+- Pattern
+- Loops
 - List
